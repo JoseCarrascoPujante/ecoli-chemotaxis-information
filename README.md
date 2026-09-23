@@ -1,7 +1,5 @@
 # Reproducibility package
 
-[![DOI](https://zenodo.org/badge/1384083076.svg)](https://zenodo.org/badge/latestdoi/1384083076)
-
 Analysis code and source data accompanying:
 
 > De la Fuente, I. M., Carrasco-Pujante, J., Fedetz, M., Legarreta, L., Malaina, I.,

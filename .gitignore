@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# NOTE: outputs/ is intentionally NOT ignored.
+# The generated tables, figures and summary.json are committed as the
+# reference outputs corresponding to the published manuscript, so that a
+# reader can inspect expected results without executing the pipeline.
+# Re-running the script overwrites them in place.
