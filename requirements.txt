@@ -1,0 +1,11 @@
+# Runtime dependencies for chemotaxis_reproducible_analysis.py
+# Versions are lower bounds; pip resolves to the newest compatible release.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+
+# Jupyter is not required for the script and is omitted to keep the install small.
+# To run the notebook as well:
+#
+#     pip install -r requirements.txt jupyterlab

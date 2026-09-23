@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: >-
+  Reproducibility package for "Quantifying transient biochemical information in
+  Escherichia coli chemotaxis"
+message: >-
+  If you use this software, please cite both the software (via its Zenodo DOI)
+  and the associated article.
+type: software
+authors:
+  - family-names: De la Fuente
+    given-names: Ildefonso M.
+  - family-names: Carrasco-Pujante
+    given-names: José
+  - family-names: Fedetz
+    given-names: María
+  - family-names: Legarreta
+    given-names: Leire
+  - family-names: Malaina
+    given-names: Iker
+  - family-names: Pérez-Yarza
+    given-names: Gorka
+  - family-names: Martínez
+    given-names: Luis
+  - family-names: Cortés
+    given-names: Jesús M.
+  - family-names: López
+    given-names: José I.
+license: MIT
+repository-code: 'https://github.com/JoseCarrascoPujante/ecoli-chemotaxis-information'
+abstract: >-
+  Standalone Python script and executable Jupyter notebook reproducing the
+  principal recalculable quantitative results of the manuscript: microscopic and
+  collective methylation capacity, endpoint-based recalibration of the Shimizu et
+  al. (2010) fixed-modification FRET data, bootstrap and structural sensitivity
+  analyses, FRET-to-methylation noise mapping, static mutual information and
+  information-equivalent distinguishability, environmental-prior sensitivity,
+  run-scale and timescale calculations, the kinase-information benchmark, and
+  boundary-treatment ratios.
+keywords:
+  - Escherichia coli
+  - chemotaxis
+  - receptor methylation
+  - information theory
+  - mutual information
+  - reproducibility
